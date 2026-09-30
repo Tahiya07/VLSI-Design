@@ -1,0 +1,2 @@
+vhdl isim_temp "full-adder.vhd"
+vhdl isim_temp "full-adder-tb.vhd"
