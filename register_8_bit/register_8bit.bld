@@ -1,0 +1,41 @@
+Release 14.7 ngdbuild P.20131013 (lin64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+
+Command Line: /opt/Xilinx/14.7/ISE_DS/ISE/bin/lin64/unwrapped/ngdbuild -intstyle
+ise -dd _ngo -nt timestamp -i -bm register_tb_8bit.bmm -p xc6vcx75t-ff484-2
+register_8bit.ngc register_8bit.ngd
+
+Reading NGO file
+"/home/ise/VLSI_projects/Project/register_8_bit/register_8bit.ngc" ...
+Gathering constraint information from source properties...
+Done.
+
+Resolving constraint associations...
+Checking Constraint Associations...
+Done...
+
+Processing BMM file "register_tb_8bit.bmm" ...
+
+WARNING::53 - File 'register_tb_8bit.bmm' is empty or has no BMM content.
+
+
+Checking expanded design ...
+
+Partition Implementation Status
+-------------------------------
+
+  No Partitions were found in this design.
+
+-------------------------------
+
+NGDBUILD Design Results Summary:
+  Number of errors:     0
+  Number of warnings:   0
+
+Total memory usage is 517260 kilobytes
+
+Writing NGD file "register_8bit.ngd" ...
+Total REAL time to NGDBUILD completion:  3 sec
+Total CPU time to NGDBUILD completion:   3 sec
+
+Writing NGDBUILD log file "register_8bit.bld"...

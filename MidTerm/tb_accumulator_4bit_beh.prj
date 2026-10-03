@@ -1,0 +1,4 @@
+vhdl work "register_4bit.vhd"
+vhdl work "Adder_4bit.vhd"
+vhdl work "accumulator_4bit.vhd"
+vhdl work "tb_accumulator.vhd"

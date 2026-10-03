@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<generated_project xmlns="http://www.xilinx.com/XMLSchema" xmlns:xil_pn="http://www.xilinx.com/XMLSchema">
+
+  <!--                                                          -->
+
+  <!--             For tool use only. Do not edit.              -->
+
+  <!--                                                          -->
+
+  <!-- ProjectNavigator created generated project file.         -->
+
+  <!-- For use in tracking generated file and other information -->
+
+  <!-- allowing preservation of process status.                 -->
+
+  <!--                                                          -->
+
+  <!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved. -->
+
+  <version xmlns="http://www.xilinx.com/XMLSchema">11.1</version>
+
+  <sourceproject xmlns="http://www.xilinx.com/XMLSchema" xil_pn:fileType="FILE_XISE" xil_pn:name="register_8_bit.xise"/>
+
+  <files xmlns="http://www.xilinx.com/XMLSchema">
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="_ngo"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/map.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/ngdbuild.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/par.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/trce.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/xst.xmsgs"/>
+    <file xil_pn:fileType="FILE_LOG" xil_pn:name="fuse.log"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="isim"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_CMD" xil_pn:name="isim.cmd"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_LOG" xil_pn:name="isim.log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGDBUILD_LOG" xil_pn:name="register_8bit.bld"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="register_8bit.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="register_8bit.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NCD" xil_pn:name="register_8bit.ncd" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="register_8bit.ngc"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGD" xil_pn:name="register_8bit.ngd"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGR" xil_pn:name="register_8bit.ngr"/>
+    <file xil_pn:fileType="FILE_PAD_MISC" xil_pn:name="register_8bit.pad"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PAR_REPORT" xil_pn:name="register_8bit.par" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PCF" xil_pn:name="register_8bit.pcf" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="register_8bit.prj"/>
+    <file xil_pn:fileType="FILE_TRCE_MISC" xil_pn:name="register_8bit.ptwx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="register_8bit.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="register_8bit.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_TIMING_TXT_REPORT" xil_pn:name="register_8bit.twr" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_TIMING_XML_REPORT" xil_pn:name="register_8bit.twx" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_UNROUTES" xil_pn:name="register_8bit.unroutes" xil_pn:subbranch="Par"/>
+    <file xil_pn:fileType="FILE_XPI" xil_pn:name="register_8bit.xpi"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="register_8bit.xst"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="register_8bit_envsettings.html"/>
+    <file xil_pn:fileType="FILE_NCD" xil_pn:name="register_8bit_guide.ncd" xil_pn:origination="imported"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_MAP_REPORT" xil_pn:name="register_8bit_map.map" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_MAP_REPORT" xil_pn:name="register_8bit_map.mrp" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NCD" xil_pn:name="register_8bit_map.ncd" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGM" xil_pn:name="register_8bit_map.ngm" xil_pn:subbranch="Map"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="register_8bit_map.xrpt"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="register_8bit_ngdbuild.xrpt"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PAD_EXCEL_REPORT" xil_pn:name="register_8bit_pad.csv" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PAD_TXT_REPORT" xil_pn:name="register_8bit_pad.txt" xil_pn:subbranch="Par"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="register_8bit_par.xrpt"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="register_8bit_summary.html"/>
+    <file xil_pn:fileType="FILE_FITTER_REPORT" xil_pn:name="register_8bit_summary.xml"/>
+    <file xil_pn:fileType="FILE_WEBTALK" xil_pn:name="register_8bit_usage.xml"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="register_8bit_xst.xrpt"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="register_tb_8bit_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="register_tb_8bit_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_ISIM_MISC" xil_pn:name="register_tb_8bit_isim_beh.wdb"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="register_tb_8bit_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_FITTER_REPORT" xil_pn:name="webtalk_pn.xml"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_INI" xil_pn:name="xilinxsim.ini"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xlnx_auto_0_xdb"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xst"/>
+  </files>
+
+  <transforms xmlns="http://www.xilinx.com/XMLSchema">
+    <transform xil_pn:end_ts="1791010362" xil_pn:name="TRANEXT_compLibraries2_virtex5" xil_pn:prop_ck="-4990878520934575969" xil_pn:start_ts="1791010362">
+      <status xil_pn:value="FailedRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1791010111" xil_pn:name="TRAN_copyInitialToAbstractSimulation" xil_pn:start_ts="1791010111">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1791018386" xil_pn:in_ck="-643338478164157046" xil_pn:name="TRAN_copyAbstractToPostAbstractSimulation" xil_pn:start_ts="1791018386">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="register_8_bit.vhd"/>
+      <outfile xil_pn:name="register_tb_8bit.vhd"/>
+    </transform>
+    <transform xil_pn:end_ts="1791018289" xil_pn:name="TRAN_xawsToSimhdl" xil_pn:prop_ck="420878201977577469" xil_pn:start_ts="1791018289">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1791018289" xil_pn:name="TRAN_schematicsToHdlSim" xil_pn:prop_ck="-5525179343961446835" xil_pn:start_ts="1791018289">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1791010111" xil_pn:name="TRAN_regenerateCoresSim" xil_pn:prop_ck="8828722281399161254" xil_pn:start_ts="1791010111">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1791018393" xil_pn:in_ck="-643338478164157046" xil_pn:name="TRAN_copyPostAbstractToPreSimulation" xil_pn:start_ts="1791018392">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="register_8_bit.vhd"/>
+      <outfile xil_pn:name="register_tb_8bit.vhd"/>
+    </transform>
+    <transform xil_pn:end_ts="1791018397" xil_pn:in_ck="-643338478164157046" xil_pn:name="TRAN_ISimulateBehavioralModelRunFuse" xil_pn:prop_ck="-6693742112660134196" xil_pn:start_ts="1791018393">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="fuse.log"/>
+      <outfile xil_pn:name="isim"/>
+      <outfile xil_pn:name="register_tb_8bit_beh.prj"/>
+      <outfile xil_pn:name="register_tb_8bit_isim_beh.exe"/>
+      <outfile xil_pn:name="xilinxsim.ini"/>
+    </transform>
+    <transform xil_pn:end_ts="1791018397" xil_pn:in_ck="9149181713248054303" xil_pn:name="TRAN_ISimulateBehavioralModel" xil_pn:prop_ck="7271771453275993551" xil_pn:start_ts="1791018397">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="isim.cmd"/>
+      <outfile xil_pn:name="isim.log"/>
+      <outfile xil_pn:name="register_tb_8bit_isim_beh.wdb"/>
+    </transform>
+    <transform xil_pn:end_ts="1791009721" xil_pn:name="TRAN_copyInitialToXSTAbstractSynthesis" xil_pn:start_ts="1791009721">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1791009721" xil_pn:name="TRAN_schematicsToHdl" xil_pn:prop_ck="4460684888002073048" xil_pn:start_ts="1791009721">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1791009721" xil_pn:name="TRAN_regenerateCores" xil_pn:prop_ck="8828722281399161254" xil_pn:start_ts="1791009721">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1791009721" xil_pn:name="TRAN_SubProjectAbstractToPreProxy" xil_pn:start_ts="1791009721">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1791009721" xil_pn:name="TRAN_xawsTohdl" xil_pn:prop_ck="-1817398463917424760" xil_pn:start_ts="1791009721">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1791009721" xil_pn:name="TRAN_SubProjectPreToStructuralProxy" xil_pn:prop_ck="-2777237817060198042" xil_pn:start_ts="1791009721">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1791009721" xil_pn:name="TRAN_platgen" xil_pn:prop_ck="5217262989250443504" xil_pn:start_ts="1791009721">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1791010024" xil_pn:in_ck="1207679375115302218" xil_pn:name="TRANEXT_xstsynthesize_virtex6" xil_pn:prop_ck="-1542674683012922628" xil_pn:start_ts="1791010014">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="_xmsgs/xst.xmsgs"/>
+      <outfile xil_pn:name="register_8bit.lso"/>
+      <outfile xil_pn:name="register_8bit.ngc"/>
+      <outfile xil_pn:name="register_8bit.ngr"/>
+      <outfile xil_pn:name="register_8bit.prj"/>
+      <outfile xil_pn:name="register_8bit.stx"/>
+      <outfile xil_pn:name="register_8bit.syr"/>
+      <outfile xil_pn:name="register_8bit.xst"/>
+      <outfile xil_pn:name="register_8bit_xst.xrpt"/>
+      <outfile xil_pn:name="webtalk_pn.xml"/>
+      <outfile xil_pn:name="xst"/>
+    </transform>
+    <transform xil_pn:end_ts="1791009733" xil_pn:name="TRAN_compileBCD2" xil_pn:prop_ck="4953683018039149619" xil_pn:start_ts="1791009733">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1791010032" xil_pn:in_ck="-5049029154636107397" xil_pn:name="TRANEXT_ngdbuild_FPGA" xil_pn:prop_ck="-6504597171657405296" xil_pn:start_ts="1791010024">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="_ngo"/>
+      <outfile xil_pn:name="_xmsgs/ngdbuild.xmsgs"/>
+      <outfile xil_pn:name="register_8bit.bld"/>
+      <outfile xil_pn:name="register_8bit.ngd"/>
+      <outfile xil_pn:name="register_8bit_ngdbuild.xrpt"/>
+    </transform>
+    <transform xil_pn:end_ts="1791010057" xil_pn:in_ck="1713573082833009698" xil_pn:name="TRANEXT_map_virtex6" xil_pn:prop_ck="-7406072446961783193" xil_pn:start_ts="1791010032">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="WarningsGenerated"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="_xmsgs/map.xmsgs"/>
+      <outfile xil_pn:name="register_8bit.pcf"/>
+      <outfile xil_pn:name="register_8bit_map.map"/>
+      <outfile xil_pn:name="register_8bit_map.mrp"/>
+      <outfile xil_pn:name="register_8bit_map.ncd"/>
+      <outfile xil_pn:name="register_8bit_map.ngm"/>
+      <outfile xil_pn:name="register_8bit_map.xrpt"/>
+      <outfile xil_pn:name="register_8bit_summary.xml"/>
+      <outfile xil_pn:name="register_8bit_usage.xml"/>
+    </transform>
+    <transform xil_pn:end_ts="1791010091" xil_pn:in_ck="-4810167646556730309" xil_pn:name="TRANEXT_par_virtex5" xil_pn:prop_ck="-1363772850685286664" xil_pn:start_ts="1791010057">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="_xmsgs/par.xmsgs"/>
+      <outfile xil_pn:name="register_8bit.ncd"/>
+      <outfile xil_pn:name="register_8bit.pad"/>
+      <outfile xil_pn:name="register_8bit.par"/>
+      <outfile xil_pn:name="register_8bit.ptwx"/>
+      <outfile xil_pn:name="register_8bit.unroutes"/>
+      <outfile xil_pn:name="register_8bit.xpi"/>
+      <outfile xil_pn:name="register_8bit_pad.csv"/>
+      <outfile xil_pn:name="register_8bit_pad.txt"/>
+      <outfile xil_pn:name="register_8bit_par.xrpt"/>
+    </transform>
+    <transform xil_pn:end_ts="1791010091" xil_pn:in_ck="1713573082833009566" xil_pn:name="TRAN_postRouteTrce" xil_pn:prop_ck="445577401284416184" xil_pn:start_ts="1791010081">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="_xmsgs/trce.xmsgs"/>
+      <outfile xil_pn:name="register_8bit.twr"/>
+      <outfile xil_pn:name="register_8bit.twx"/>
+    </transform>
+  </transforms>
+
+</generated_project>

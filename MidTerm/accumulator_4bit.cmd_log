@@ -1,0 +1,5 @@
+xst -intstyle ise -ifn "/home/ise/VLSI_projects/Project/MidTerm/accumulator_4bit.xst" -ofn "/home/ise/VLSI_projects/Project/MidTerm/accumulator_4bit.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc6vcx75t-ff484-2 accumulator_4bit.ngc accumulator_4bit.ngd  
+map -intstyle ise -p xc6vcx75t-ff484-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o accumulator_4bit_map.ncd accumulator_4bit.ngd accumulator_4bit.pcf 
+par -w -intstyle ise -ol high -mt off accumulator_4bit_map.ncd accumulator_4bit.ncd accumulator_4bit.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml accumulator_4bit.twx accumulator_4bit.ncd -o accumulator_4bit.twr accumulator_4bit.pcf 

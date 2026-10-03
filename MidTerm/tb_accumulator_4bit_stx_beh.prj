@@ -1,0 +1,4 @@
+vhdl isim_temp "register_4bit.vhd"
+vhdl isim_temp "Adder_4bit.vhd"
+vhdl isim_temp "accumulator_4bit.vhd"
+vhdl isim_temp "tb_accumulator.vhd"

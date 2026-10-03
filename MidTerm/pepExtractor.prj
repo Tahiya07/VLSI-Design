@@ -1,0 +1,3 @@
+work	"Adder_4bit.vhd"
+work	"accumulator_4bit.vhd"
+work	"register_4bit.vhd"
