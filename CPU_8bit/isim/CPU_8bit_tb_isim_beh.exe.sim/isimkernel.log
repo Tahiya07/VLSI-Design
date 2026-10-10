@@ -1,0 +1,10 @@
+Command line:
+   CPU_8bit_tb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  45635
+
+Fri Oct  9 15:51:41 2026
+
+
+ Elaboration Time: 0.03 sec

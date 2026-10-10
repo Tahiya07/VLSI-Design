@@ -1,0 +1,7 @@
+vhdl work "RegisterBank.vhd"
+vhdl work "ProgramROM.vhd"
+vhdl work "ProgramCounter.vhd"
+vhdl work "ControlUnit.vhd"
+vhdl work "ALU.vhd"
+vhdl work "CPU_8bit.vhd"
+vhdl work "CPU_8bit_tb.vhd"

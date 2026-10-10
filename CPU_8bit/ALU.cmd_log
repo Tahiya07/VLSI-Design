@@ -1,0 +1,1 @@
+vhdtdtfi -prj CPU_8bit -o ALU.spl -module ALU -template /opt/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 

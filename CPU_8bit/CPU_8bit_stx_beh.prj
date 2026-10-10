@@ -1,0 +1,6 @@
+vhdl isim_temp "RegisterBank.vhd"
+vhdl isim_temp "ProgramROM.vhd"
+vhdl isim_temp "ProgramCounter.vhd"
+vhdl isim_temp "ControlUnit.vhd"
+vhdl isim_temp "ALU.vhd"
+vhdl isim_temp "CPU_8bit.vhd"

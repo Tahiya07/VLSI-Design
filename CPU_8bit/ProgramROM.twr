@@ -1,0 +1,87 @@
+--------------------------------------------------------------------------------
+Release 14.7 Trace  (lin64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+
+/opt/Xilinx/14.7/ISE_DS/ISE/bin/lin64/unwrapped/trce -intstyle ise -v 3 -s 2 -n
+3 -fastpaths -xml ProgramROM.twx ProgramROM.ncd -o ProgramROM.twr
+ProgramROM.pcf
+
+Design file:              ProgramROM.ncd
+Physical constraint file: ProgramROM.pcf
+Device,package,speed:     xc6vcx75t,ff484,C,-2 (PRODUCTION 1.11 2013-10-13)
+Report level:             verbose report
+
+Environment Variable      Effect 
+--------------------      ------ 
+NONE                      No environment variables were set
+--------------------------------------------------------------------------------
+
+INFO:Timing:2698 - No timing constraints found, doing default enumeration.
+INFO:Timing:3412 - To improve timing, see the Timing Closure User Guide (UG612).
+INFO:Timing:2752 - To get complete path coverage, use the unconstrained paths 
+   option. All paths that are not constrained will be reported in the 
+   unconstrained paths section(s) of the report.
+INFO:Timing:3339 - The clock-to-out numbers in this timing report are based on 
+   a 50 Ohm transmission line loading model.  For the details of this model, 
+   and for more information on accounting for different loading conditions, 
+   please see the device datasheet.
+
+
+
+Data Sheet report:
+-----------------
+All values displayed in nanoseconds (ns)
+
+Pad to Pad
+---------------+---------------+---------+
+Source Pad     |Destination Pad|  Delay  |
+---------------+---------------+---------+
+address<0>     |instruction<1> |    6.023|
+address<0>     |instruction<2> |    5.882|
+address<0>     |instruction<3> |    5.903|
+address<0>     |instruction<4> |    5.863|
+address<0>     |instruction<5> |    5.668|
+address<0>     |instruction<6> |    5.700|
+address<0>     |instruction<8> |    6.021|
+address<0>     |instruction<9> |    6.150|
+address<0>     |instruction<11>|    6.151|
+address<1>     |instruction<1> |    5.572|
+address<1>     |instruction<3> |    5.452|
+address<1>     |instruction<4> |    5.423|
+address<1>     |instruction<5> |    5.706|
+address<1>     |instruction<6> |    5.750|
+address<1>     |instruction<8> |    5.562|
+address<1>     |instruction<9> |    5.691|
+address<1>     |instruction<11>|    5.703|
+address<2>     |instruction<1> |    5.889|
+address<2>     |instruction<2> |    5.610|
+address<2>     |instruction<3> |    5.769|
+address<2>     |instruction<4> |    5.601|
+address<2>     |instruction<5> |    5.854|
+address<2>     |instruction<6> |    5.886|
+address<2>     |instruction<8> |    5.738|
+address<2>     |instruction<9> |    6.016|
+address<2>     |instruction<11>|    5.876|
+address<3>     |instruction<1> |    5.441|
+address<3>     |instruction<2> |    5.528|
+address<3>     |instruction<3> |    5.321|
+address<3>     |instruction<4> |    5.494|
+address<3>     |instruction<5> |    5.392|
+address<3>     |instruction<6> |    5.429|
+address<3>     |instruction<8> |    5.666|
+address<3>     |instruction<9> |    5.567|
+address<3>     |instruction<11>|    5.782|
+---------------+---------------+---------+
+
+
+Analysis completed Fri Oct  9 09:41:09 2026 
+--------------------------------------------------------------------------------
+
+Trace Settings:
+-------------------------
+Trace Settings 
+
+Peak Memory Usage: 588 MB
+
+
+
